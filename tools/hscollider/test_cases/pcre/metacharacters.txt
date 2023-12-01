@@ -1,4 +1,4 @@
-# Some tests for specific special metacharacters
+# Some tests for specific special metacharacters \, ^, $, ., [, ],* , ?. 
 
 # matches any byte
 24000:/\C/
